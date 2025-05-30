@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="40" title="Visual Studio"/>
-  <img src="https://user-images.githubusercontent.com/118463909/236664139-d6a0d305-1b7a-4c3e-a617-6b41d25a3245.png" width="40" title="Cursor"/>
+  <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="40" title="Cursor IDE"/>
 </p>
 
 ---
@@ -70,20 +70,3 @@ class Alwaleed:
 
 me = Alwaleed()
 print(me.work())
-```
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://t.me/AlwaleedZeeh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlwaleedZeeh&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
-</div>
