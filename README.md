@@ -47,6 +47,22 @@
 
 ---
 
+## 🌐 تابعني على مواقع التواصل
+
+<p align="center">
+  <a href="https://youtube.com/@alwaleedzeeh" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@welix.1" target="_blank">
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alwaleedzeeh" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
