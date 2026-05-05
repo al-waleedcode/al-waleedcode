@@ -18,7 +18,7 @@
 
 ```js
 const alwaleed = {
-  name     : "AL-WALEED ZEEH",
+  name     : "AL-WALEED ZAIH",
   from     : "Yemen 🇾🇪",
   goal     : "Full-Stack Web Developer",
   domain   : "waleedzaih.dev",
